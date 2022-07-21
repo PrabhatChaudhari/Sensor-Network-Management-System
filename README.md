@@ -14,5 +14,5 @@ The network has systems of Air quality index (AQI) sensor which records entities
 carbon monoxide, ground level ozone etc. and tries to find out Air quality level and pollution level.
 
 The problem statement is implemented using these data structures
-> Doubly linked lists
-> Binary trees
+1. Doubly linked lists
+2. Binary trees
